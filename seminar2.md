@@ -1,7 +1,1 @@
-# Git edication. Branches
-
-## Branch creating
-
-## Branch merging
-
-## Conflicts
+# Get edication. Branches
